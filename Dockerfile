@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.6
 
 # Install the apt-get stuff
 RUN apt update && \
